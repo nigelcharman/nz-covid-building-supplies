@@ -1,8 +1,14 @@
 package nz.govt.covid19
 
 enum Region {
-    AUCKLAND,
-    NORTHLAND,
-    UPPER_HAURAKI,
-    OTHER
+    AUCKLAND("Auckland"),
+    NORTHLAND("Northland"),
+    UPPER_HAURAKI("Upper Hauraki"),
+    OTHER("Other")
+
+    String description
+
+    private Region(String description) {
+        this.description = description
+    }
 }
