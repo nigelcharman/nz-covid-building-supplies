@@ -38,11 +38,6 @@ jobs:
       - name: Build and Test with Gradle
         run: ./gradlew clean test
 
-      - name: Publish Unit Test Results
-        uses: EnricoMi/publish-unit-test-result-action@v1
-        with:
-          files: build/test-results/**/*.xml
-
       - name: Publish Specifications
         uses: peaceiris/actions-gh-pages@v3
         with:
