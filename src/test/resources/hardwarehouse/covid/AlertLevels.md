@@ -1,8 +1,8 @@
-#Alert Levels
+# Alert Levels
 
 Under the current Delta outbreak, the Alert Levels around NZ are: 
 
-| Supply Date from    | Location       | Alert Level   | 
+| Date from    | Location       | Alert Level   | 
 | ------------------- | -------------- | ------------- |
 | 29/06/2021 23:59:00 | NZ             | Alert Level 1 |
 | 17/08/2021 23:59:00 | NZ             | Alert Level 4 |
