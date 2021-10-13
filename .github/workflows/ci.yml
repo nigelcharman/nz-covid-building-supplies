@@ -36,7 +36,7 @@ jobs:
         run: chmod +x gradlew
 
       - name: Build and Test with Gradle
-        run: ./gradlew --stop clean test
+        run: ./gradlew clean test
 
       - name: Publish Unit Test Results
         uses: EnricoMi/publish-unit-test-result-action@v1
