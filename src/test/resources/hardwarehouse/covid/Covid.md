@@ -21,7 +21,7 @@ Restrictions to supplies depend on the:
 
 When taking orders, we need to determine the [customer type and alert level](CustomerTypeAndAlertLevel.md "c:run") placing the order.
 
-## What are the restrictions we need for the MegaWareHouse site?
+## What are the restrictions we need for the HardWareHouse site?
 
 ### Level 4
 
