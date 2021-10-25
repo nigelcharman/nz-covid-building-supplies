@@ -41,3 +41,6 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: build/reports/spec
+
+      - name: Print Specification Path
+        run: echo "Published to https://nigelcharman.github.io/nz-covid-building-supplies/hardwarehouse/covid/Covid.html"
