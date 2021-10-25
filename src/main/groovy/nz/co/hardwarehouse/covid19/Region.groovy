@@ -1,4 +1,4 @@
-package nz.govt.covid19
+package nz.co.hardwarehouse.covid19
 
 enum Region {
     AUCKLAND("Auckland"),
