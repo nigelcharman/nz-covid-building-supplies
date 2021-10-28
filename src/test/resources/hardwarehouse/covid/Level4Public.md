@@ -20,15 +20,13 @@ Non-essential goods include:
 
 See [operating-at-alert-levels](https://www.business.govt.nz/covid-19/operating-at-alert-levels/)
 
-<!--
 ### Under AL4, I can buy a heater
 
 Given I am a Public customer operating under Alert Level 4
 
 When I attempt to buy a heater
 
-Then I am allowed to buy it
---> 
+Then I am allowed to buy it 
 
 <!--
 ### [Under AL4, I can buy a heater](-)
