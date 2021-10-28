@@ -24,7 +24,7 @@ When taking orders, we need to determine the [customer type and alert level](Cus
 ## What are the restrictions we need for the HardWareHouse site?
 
 ### Level 4
-
+ 
 * [Level 4 Public customers](Level4Public.md "c:run")
 * [Level 4 Trade customers](Level4Trade.md "c:run")
 
