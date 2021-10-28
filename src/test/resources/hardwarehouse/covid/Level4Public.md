@@ -20,13 +20,13 @@ Non-essential goods include:
 
 See [operating-at-alert-levels](https://www.business.govt.nz/covid-19/operating-at-alert-levels/)
 
-### Under AL4, I can buy a heater
+### [Under AL4, I can buy a heater](-)
 
-Given I am a Public customer operating under Alert Level 4
+Given I am a [Public](- "#customerType") customer operating under Alert Level [4](- "#alertLevel")
 
-When I attempt to buy a heater
+When I attempt to buy a [heater](- "#result = canBuy(#customerType, #alertLevel, #TEXT)")
 
-Then I am allowed to buy it 
+Then I am [allowed](- "?=#result") to buy it 
 
 <!--
 ### [Under AL4, I can buy a heater](-)
